@@ -48,8 +48,14 @@
 	// 			path: 'chuc-vu',
 	// 			component: './DanhMuc/ChucVu',
 	// 		},
-	// 	],
 	// },
+
+	{
+		path: '/employee',
+		name: 'Quản lý nhân viên',
+		component: './employee',
+		icon: 'UserOutlined',
+	},
 
 	{
 		path: '/notification',
